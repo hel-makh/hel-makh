@@ -3,7 +3,6 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hel-makh)](https://github.com/mohouyizme/1337-readme)
 
 - 🧑‍🎓 I'm currently studying at [1337 Coding School](https://1337.ma/).
-<!--- 🔭 I’m currently working on [so_long](https://github.com/hel-makh/so_long).-->
 - 🌱 I’m currently learning C language, CyberSecurity.
 - 📫 How to reach me: hel-makh@student.1337.ma
 
@@ -21,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- - 🔭 I’m currently working on [so_long](https://github.com/hel-makh/so_long).-->
