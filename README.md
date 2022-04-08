@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hel-makh)](https://github.com/mohouyizme/1337-readme)
+[![hel-makh's 42 stats](https://badge.mediaplus.ma/darkblue/hel-makh)](https://github.com/oakoudad/badge42)
 
 - 🧑‍🎓 I'm currently studying at [1337 Coding School](https://1337.ma/).
 - 🌱 I’m currently learning C language, CyberSecurity.
